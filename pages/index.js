@@ -21,7 +21,7 @@ export default function Home() {
             transition={{ duration: 1, delay: 0.5 }}
             className="text-lg mb-6"
           >
-            Especialista en cirugía de columna vertebral y técnicas mínimament invasivas en Cancún. Con más de 15 años de experiencia ayudando a pacientes nacionales e internacionales.
+            Especialista en cirugía de columna vertebral y técnicas m1ínimament invasivas en Cancún. Con más de 15 años de experiencia ayudando a pacientes nacionales e internacionales.
           </motion.p>
           <motion.a
             href="#contacto"
